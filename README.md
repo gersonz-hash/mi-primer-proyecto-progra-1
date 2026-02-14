@@ -17,5 +17,8 @@ Este otro trabajo lo hice en la rama de rama -gerson
 
 y en esta rama estoy practicando la creacion de ramas y fusiones de ramas en Git.
 
-este es otro cambio porque no pude de nuevo.
+<<<<<<< HEAD
+=======
+ESTA ES OTRA PRUEBA DE LA RAMA PORQUE NO HABÍA COLOCADO LA RAMA TODO LO HABÍA COLOCADO EN EL MAIN Y NO SE CREO LA RAMA 
+>>>>>>> rama-gerson
 
