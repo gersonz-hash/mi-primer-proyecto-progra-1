@@ -13,7 +13,9 @@ Este fue trabajado directamente desde la terminal con commits
 
 
 
-Este otro trabajo lo hice en la rama de rama -gerson 
+Este otro trabajo lo hice en la rama de rama -gerson
 
 y en esta rama estoy practicando la creacion de ramas y fusiones de ramas en Git.
+
+este es otro cambio porque no pude de nuevo.
 
